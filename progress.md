@@ -1,6 +1,7 @@
 
 ### Easy
 
+* [1. Two sum](/easy/1_two_sum/requirements.md) ✅
 
 ### Medium
 
