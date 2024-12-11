@@ -10,7 +10,8 @@ double calories_burned(int weight, int ride[][2], int n)
     int t_next = 0;
     double segment_calories = 0;
 
-    for (int i = 0; i < n - 1; i++) {
+    for (int i = 0; i < n - 1; i++)
+    {
         v_i = ride[i][0];
         t_i = ride[i][1];
         t_next = ride[i + 1][1];
@@ -25,7 +26,8 @@ double calories_burned(int weight, int ride[][2], int n)
 
 int main()
 {
-    int data[][2] = {
+    int data[][2] =
+    {
         {6, 0},
         {4, 1800},
         {0, 3600}
