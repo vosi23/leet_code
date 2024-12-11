@@ -2,7 +2,22 @@
 #include <stdlib.h>
 #include <string.h>
 
-// TODO: add brief requirements
+/*
+
+As a part of the larger application the Descriptor structure was created to hold basic data about each program.
+However the methods for allocating and deallocating the structure are incomplete.
+
+Finish the allocate_and_initialize_descriptor and deallocate_descriptor functions.
+
+The allocate_and_initialize_descriptor should:
+- allocate memory for the new descriptor struct
+- set id in the struct to the parameter id
+- set name_length in the struct to the length of string of which the name parameter points
+- the name in the struct should point to a copy of the string to which the name parameter points
+
+The deallocate_descriptor function should free all memory that was allocated by allocate_and_initialize_descriptor function.
+
+*/
 
 typedef struct Descriptor
 {

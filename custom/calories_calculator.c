@@ -1,6 +1,25 @@
 #include <stdio.h>
 
-// TODO: add brief requirements
+/*
+
+A fitness app routinely measures velocity during a bicycle ride. It stores the velocity and time data as a series of pairs {vi, ti} of length n where i is the index of each measurement.
+
+Implement the calories_burned function to calculate the calories burned on the ride using the formula below:
+
+calories burned= weight×i= 0∑n−2​((2.5×vi​−6)×(ti+1​−ti​))/3600
+
+For example, calling:
+
+int data[][2]=
+{
+{6, 0},
+{4, 1800},
+{0, 3600}
+};
+double calories= calories_burned(60, data, 3);
+
+Should return 390.
+*/
 
 double calories_burned(int weight, int ride[][2], int n) 
 {
