@@ -9,3 +9,4 @@
 
 
 ### Hard
+* [4. Median of two sorted arrays](/hard/4_median_of_two_sorted_arrays/requirements.md) ✅
