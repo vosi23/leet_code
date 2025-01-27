@@ -8,6 +8,7 @@
 * [3. Longest substring without repeating characters](/medium/3_longest_substring_without_repeating/requirements.md) ✅
 * [5. Longest palindromic substring](/medium/5_longest_palindromic_substring/requirements.md) ✅
 * [6. Zigzag conversion](/medium/6_zigzag_conversion/requirements.md) ✅
+* [7. Reversed integer](/medium/7_reverse_integer/requirements.md) ✅
 
 
 ### Hard
