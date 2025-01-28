@@ -1,7 +1,7 @@
 
 ### Easy
 * [1. Two sum](/easy/1_two_sum/requirements.md) ✅
-* [8. String to Integer (atoi)](/easy/8_string_to_integer_atoi/requirements.md) ✅
+* [9. Palindrome number](/easy/9_palindrome_number/requirements.md) ✅ 
 
 
 ### Medium
@@ -10,6 +10,7 @@
 * [5. Longest palindromic substring](/medium/5_longest_palindromic_substring/requirements.md) ✅
 * [6. Zigzag conversion](/medium/6_zigzag_conversion/requirements.md) ✅
 * [7. Reversed integer](/medium/7_reverse_integer/requirements.md) ✅
+* [8. String to Integer (atoi)](/medium/8_string_to_integer_atoi/requirements.md) ✅
 
 
 ### Hard
