@@ -1,6 +1,7 @@
 
 ### Easy
 * [1. Two sum](/easy/1_two_sum/requirements.md) ✅
+* [8. String to Integer (atoi)](/easy/8_string_to_integer_atoi/requirements.md) ✅
 
 
 ### Medium
